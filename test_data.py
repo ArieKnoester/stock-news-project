@@ -701,3 +701,61 @@ stock_data = {
         "5. volume": "30413879",
     },
 }
+
+news_data = {
+    "status": "ok",
+    "totalResults": 5218,
+    "articles": [
+        {
+            "source": {"id": "engadget", "name": "Engadget"},
+            "author": "Andrew Tarantola",
+            "title": "NVIDIA's Eos supercomputer just broke its own AI training benchmark record",
+            "description": "Depending on the hardware you're using, training a large language model of any "
+                           "significant size can take weeks, months, even years to complete. That's no way to do "
+                           "business — nobody has the electricity and time to be waiting that long. On Wednesday, "
+                           "NVIDIA un…",
+            "url": "https://www.engadget.com/nvidias-eos-supercomputer-just-broke-its-own-ai-training-benchmark"
+                   "-record-170042546.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UAWmyqxFcUVSo9T7sNyt1A"
+                          "--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mzg-/https://s.yimg.com/os/creatr-uploaded-images"
+                          "/2023-11/824d6160-7da1-11ee-aebf-0bbe0425da2a",
+            "publishedAt": "2023-11-08T17:00:42Z",
+            "content": "Depending on the hardware you're using, training a large language model of any significant "
+                       "size can take weeks, months, even years to complete. That's no way to do business nobody has "
+                       "the electricity… [+5498 chars]",
+        },
+        {
+            "source": {"id": "engadget", "name": "Engadget"},
+            "author": "Mariella Moon",
+            "title": "NVIDIA may soon announce new AI chips for China to get around US export restrictions",
+            "description": "NVIDIA really, really doesn't want to lose access to China's massive AI chip market. The "
+                           "company is developing three new AI chips especially for China that don't run afoul of the "
+                           "latest export restrictions in the US, according to The Wall Street Journal and R…",
+            "url": "https://www.engadget.com/nvidia-may-soon-announce-new-ai-chips-for-china-to-get-around-us-export"
+                   "-restrictions-100509873.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NwUi9R0rZnqf366BeUMGxg"
+                          "--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images"
+                          "/2023-02/39978970-b388-11ed-bbdf-68ca8f4d4131",
+            "publishedAt": "2023-11-11T10:05:09Z",
+            "content": "NVIDIA really, really doesn't want to lose access to China's massive AI chip market. The "
+                       "company is developing three new AI chips especially for China that don't run afoul of the "
+                       "latest export restri… [+1964 chars]",
+        },
+        {
+            "source": {"id": "the-verge", "name": "The Verge"},
+            "author": "Tom Warren",
+            "title": "Nvidia announces January event after rumors of an RTX 4080 Super launch",
+            "description": "Nvidia has started emailing out press invites to a CES 2024 event, days after rumors "
+                           "suggested it could launch RTX 40-series Super cards at the giant consumer electronics "
+                           "show.",
+            "url": "https://www.theverge.com/2023/11/9/23953641/nvidia-ces-2024-event-rtx-4070-4080-super-rumors",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/d1xigC5rEky-irDkDsbNx63Qty0=/0x0:2040x1360/1200x628"
+                          "/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002529"
+                          "/acastro_STK083_04.jpg",
+            "publishedAt": "2023-11-09T12:01:23Z",
+            "content": "Illustration by Alex Castro / The Verge\r\n\n \n\n Nvidia has started emailing out press "
+                       "invites for a “special address” at the Consumer Electronics Show in January. The event "
+                       "invitations come just days a… [+1177 chars]",
+        },
+    ],
+}
