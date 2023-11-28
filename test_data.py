@@ -1,5 +1,5 @@
 # For testing.
-stock_data = {
+test_stock_data = {
     "2023-11-24": {
         "1. open": "484.7001",
         "2. high": "489.2100",
@@ -702,7 +702,7 @@ stock_data = {
     },
 }
 
-news_data = {
+test_news_data = {
     "status": "ok",
     "totalResults": 5218,
     "articles": [
