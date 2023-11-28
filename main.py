@@ -44,6 +44,8 @@ def request_stock_data():
 
 
 def calculate_closing_price_percentage_delta():
+    """Get the closing price of the stock from the previous two days.
+    Returns the difference as a percentage."""
     stock_data = request_stock_data()
     closing_prices_past_two_days = [float(date["4. close"]) for date in list(stock_data.values())[:2]]
     # print(closing_prices_past_two_days)
